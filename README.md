@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./pixel-art-coding-loop.gif" width="500">
+  <img src="./pixel-art-coding-loop-fixed.gif" width="500">
 </p>
